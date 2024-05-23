@@ -19,7 +19,8 @@
 
 <p align="center">
          <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=,cs,dotnet,visualstudio,,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=,cs,dotnet,visualstudio" />
+         <img src="https://skillicons.dev/icons?i=,html,css,bootstrap,js,github" />
   </p>
 
  
