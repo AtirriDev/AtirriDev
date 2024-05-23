@@ -15,7 +15,7 @@
        alt="snake" /></a>
 </div>
 
-**Languages I have used**
+
 
 <p align="center">
          <a href="https://skillicons.dev">
